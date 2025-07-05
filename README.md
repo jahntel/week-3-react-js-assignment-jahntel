@@ -12,9 +12,8 @@ A modern React application demonstrating component architecture, state managemen
 
 ![Home Page -
 ( Screenshot_20250704-130551.png)
-![Task Manager](./screenshots/tasks.png)
-![Posts with API Integration](./screenshots/posts.png)
-![Dark Mode](./screenshots/dark-mode.png)
+![Task Manager]( Screenshot_20250705-133249.png)
+![Posts with API Integration]()
 
 ## ✨ Features Implemented
 
