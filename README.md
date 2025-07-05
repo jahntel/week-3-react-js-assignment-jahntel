@@ -6,7 +6,7 @@ A modern React application demonstrating component architecture, state managemen
 
 ## 🚀 Live Demo
 
-**Deploy URL:** _To be added after deployment_
+**Deploy URL:** https://vercel.com/jahntels-projects/week-3-react-js-assignment-jahntel/A8wEMScWr9a3ocFFQoD1aT4vTXph
 
 ## 📸 Screenshots
 
