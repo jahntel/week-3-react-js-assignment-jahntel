@@ -11,7 +11,7 @@ A modern React application demonstrating component architecture, state managemen
 ## 📸 Screenshots
 
 ![Home Page -
-( Screenshot_20250704-130551.png)
+(_Screenshot 20250704-130551.png)
 ![Task Manager]( Screenshot_20250705-133249.png)
 ![Posts with API Integration]()
 
